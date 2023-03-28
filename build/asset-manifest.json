@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dfsd/static/css/main.7d72eec1.css",
+    "main.js": "/dfsd/static/js/main.86e8bc75.js",
+    "static/media/cryptocurrency.png": "/dfsd/static/media/cryptocurrency.08ecce983459eaec9c7e.png",
+    "index.html": "/dfsd/index.html",
+    "main.7d72eec1.css.map": "/dfsd/static/css/main.7d72eec1.css.map",
+    "main.86e8bc75.js.map": "/dfsd/static/js/main.86e8bc75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d72eec1.css",
+    "static/js/main.86e8bc75.js"
+  ]
+}
